@@ -22,5 +22,4 @@ Estas son las herramientas, lenguajes y áreas en las que estoy trabajando y que
 
 Si quieres colaborar en algún proyecto o simplemente conectar, puedes encontrarme en:
 
-* **Correo electrónico:**  juan.guerrero7137@alumnos.udg.mx
 * **LinkedIn:** (https://www.linkedin.com/in/juan-gerardo-guerrero-gonzález-a5499a43b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
